@@ -8,3 +8,4 @@ app:
 spring:
   application:
     name: goode-auth-service
+
